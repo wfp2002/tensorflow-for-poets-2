@@ -13,7 +13,9 @@ docker run -it -p 8888:8888 tensorflow/tensorflow
 Clonando o repositorio
 
 git clone https://github.com/googlecodelabs/tensorflow-for-poets-2
+
 ou 
+
 git clone https://github.com/wfp2002/tensorflow-for-poets-2
 cd tensorflow-for-poets-2
 
